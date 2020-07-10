@@ -7,5 +7,5 @@
 
 ### Hello! 👋 Welcome to my profile
 
-- 🔭 I’m currently working on Distributed Systems Laboratory
-- 🌱 I’m currently learning node, react.js, python and ORM's
+- 🔭 I’m currently working on Distributed Systems Laboratory as developer/researcher
+- 🌱 I’m currently learning web scrapping with python and build applications with node.js, react.js and docker
