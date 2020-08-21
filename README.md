@@ -1,9 +1,18 @@
 # Paulo Júnior 👨‍💻🔥
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/paulojuniore)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulojuniore/)](https://www.linkedin.com/in/paulo-juniore/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulo.junior@ccc.ufcg.edu.br)](mailto:paulo.junior@ccc.ufcg.edu.br)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/paulojuniore/)](https://www.instagram.com/paulojuniore/)
+![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&theme=dracula&count_private=true)
+
+<a href="https://github.com/paulojuniore">
+ <img src="https://img.shields.io/github/followers/paulojuniore?style=social"/>
+</a>
+
+<a href="https://www.linkedin.com/in/paulo-juniore">
+ <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
+</a>
+
+<a href="mailto:paulo.junior@ccc.ufcg.edu.br">
+ <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 ### Hello! 👋 Welcome to my profile
 
