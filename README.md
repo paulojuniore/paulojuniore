@@ -17,4 +17,4 @@
 ### Hello! 👋 Welcome to my profile
 
 - 🔭 I’m currently working on Distributed Systems Laboratory as developer/researcher
-- 🌱 I’m currently learning web scrapping with python and build applications with node.js, react.js and docker
+- 🌱 I’m currently learning web scrapping with python and building applications with node.js, react.js and docker
