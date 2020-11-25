@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning web scrapping with python and building applications with Java using the Spring framework, node.js, react.js and docker
 
 ![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulojuniore&layout=compact&exclude_repo=MachineLearningStudies)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/paulojuniore">
