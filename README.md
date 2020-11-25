@@ -5,7 +5,7 @@
 
 ### Hello! 👋 Welcome to my profile
 
-<img style="margin: 0 auto" src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" height="200">
+<img style="margin: 0 auto" src="https://gph.is/g/E0kMmp4" height="200">
 
 - 🔭 I’m currently working on Distributed Systems Laboratory as developer/researcher
 - 🌱 I’m currently learning web scrapping with python and building applications with Java using the Spring framework, node.js, react.js and docker
