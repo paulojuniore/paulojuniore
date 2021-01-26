@@ -5,7 +5,7 @@
 
 ### Hey there! Welcome to my profile!
 
-<img style="margin: 0 auto" src="https://media1.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif?cid=5a38a5a2wowhz3x11oxrnce794dmbasj7xr5qy6c506mr5yr&rid=giphy.gif" height="300">
+<img style="margin: 0 auto" src="https://media1.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif?cid=5a38a5a2wowhz3x11oxrnce794dmbasj7xr5qy6c506mr5yr&rid=giphy.gif" height="200">
 
 ### About
 
