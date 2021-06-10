@@ -10,7 +10,7 @@
 ### About
 
 - 🎓 Computer Science Undergraduate Student at Federal University of Campina Grande - UFCG
-- 👨‍ Software Developer at F9C Group - Walking Together
+- 👨‍💻 Software Developer at F9C Group - Walking Together
 - 📊 Quality Assurance Intern at Vsoft 
 - 🔭 I worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
 
