@@ -10,9 +10,9 @@
 ### About
 
 - 🎓 Computer Science Undergraduate Student at Federal University of Campina Grande - UFCG
+- 👨‍ Software Developer at F9C Group - Walking Together
 - 📊 Quality Assurance Intern at Vsoft 
-- 🔭 Software developer and researcher in the Distributed Systems Laboratory - LSD@UFCG
-- 🌱 I’m currently learning and building applications with Java using the Spring framework, node.js, react.js, docker and some others technologies.
+- 🔭 I worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
 
 ![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulojuniore&layout=compact&exclude_repo=MachineLearningStudies)](https://github.com/anuraghazra/github-readme-stats)
