@@ -10,8 +10,8 @@
 ### About
 
 - 🎓 Computer Science Undergraduate Student at Federal University of Campina Grande - UFCG
-- 👨‍💻 Software Developer at F9C Group - Walking Together
-- 📊 Quality Assurance Intern at Vsoft 
+- 👨‍💻 Software Engineer at F9C Group - Walking Together
+- 📊 Acted as Quality Assurance Intern at Vsoft 
 - 🔭 I worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
 
 ![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&count_private=true)
