@@ -5,13 +5,11 @@
 
 ### Hey there! Welcome to my profile!
 
-<img style="margin: 0 auto" src="https://media1.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif?cid=5a38a5a2wowhz3x11oxrnce794dmbasj7xr5qy6c506mr5yr&rid=giphy.gif" height="200">
-
 ### About
 
-- 🎓 Computer Science Undergraduate Student at Federal University of Campina Grande - UFCG
-- 👨‍💻 Software Engineer at F9C Security - Walking Together
+- 🎓 Bachelor in Computer Science at Federal University of Campina Grande - UFCG
+- 👨‍💻 Software Engineer at F9C Security
 - 📊 Acted as Quality Assurance Intern at Vsoft 
-- 🔭 I worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
+- 🔭 Worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
 
 ![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&count_private=true)
