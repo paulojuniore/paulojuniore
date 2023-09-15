@@ -11,5 +11,3 @@
 - 👨‍💻 Software Engineer at F9C Security
 - 📊 Acted as Quality Assurance Intern at Vsoft 
 - 🔭 Worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
-
-![Paulo Júnior's github stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&count_private=true)
