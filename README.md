@@ -1,9 +1,9 @@
-# Paulo Júnior 👨‍💻🔥
+# Paulo Júnior 👨‍💻👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulo-juniore/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulo.junior@ccc.ufcg.edu.br)](mailto:paulo.junior@ccc.ufcg.edu.br)
 
-### Hey there! Welcome to my profile!
+### Welcome to my profile!
 
 ### About
 
