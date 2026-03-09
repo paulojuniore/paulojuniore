@@ -8,6 +8,6 @@
 ### About
 
 - 🎓 Bachelor in Computer Science at Federal University of Campina Grande - UFCG
-- 👨‍💻 Software Engineer at F9C Security
-- 📊 Acted as Quality Assurance Intern at Vsoft 
+- 👨‍💻 Worked as Software Engineer at F9C Security
+- 📊 Worked as Quality Assurance Intern at Vsoft 
 - 🔭 Worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG
