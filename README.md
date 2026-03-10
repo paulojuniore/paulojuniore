@@ -21,11 +21,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 Github statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulojuniore&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulojuniore&layout=compact&theme=tokyonight)
-
----
