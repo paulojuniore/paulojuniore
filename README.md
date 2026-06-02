@@ -2,9 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulo-juniore/)
 
-### Welcome to my profile!
-### I am Full Stack Developer!
-
 ### About
 
 - 🎓 Bachelor in Computer Science at Federal University of Campina Grande - UFCG
