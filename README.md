@@ -8,6 +8,7 @@
 - 👨‍💻 Worked as Software Engineer at F9C Security;
 - 📊 Worked as Quality Assurance Intern at Vsoft ;
 - 🔭 Worked as Software Developer and Researcher in the Distributed Systems Laboratory - LSD@UFCG.
+- ⚙️ Actually working as Full Stack Developer at Spassu Tecnologia, supporting the São Paulo Municipal Department of Education.
 
 ### 🛠️ Technologies and tools
 
