@@ -10,9 +10,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:seu-email@exemplo.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="24" alt="E-mail" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/paulojuniore" target="_blank">
-    <img src="https://api.iconify.design/lucide:github.svg?color=%23888888" height="24" alt="GitHub" />
   </a>
 </p>
 
